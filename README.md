@@ -10,6 +10,8 @@ I defined the problem, shaped the product scope, prioritised the core features, 
 
 This project reflects how I approach AI product management: think strategically, build with purpose, and use AI to move from idea to prototype faster.
 
+**Behind the product:** [Read the story, product thinking, and development approach](PRODUCT-STORY.md).
+
 **[Explore the live prototype] : - https://settle-in-swiss-guide.lovable.app/
 ## Product preview
 
