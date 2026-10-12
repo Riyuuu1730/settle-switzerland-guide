@@ -11,7 +11,23 @@ I defined the problem, shaped the product scope, prioritised the core features, 
 This project reflects how I approach AI product management: think strategically, build with purpose, and use AI to move from idea to prototype faster.
 
 **[Explore the live prototype] : - https://settle-in-swiss-guide.lovable.app/
+## Product preview
 
+### Homepage
+
+![Settle homepage](Homepage.png)
+
+### Features
+
+![Settle features](Features.png)
+
+### Ask Buddy
+
+![Ask Buddy](%20Ask%20Buddy.png)
+
+### Onboarding details
+
+![Onboarding details](One%20Time%20Details.png)
 ## The problem
 
 Moving to a new country means navigating unfamiliar processes, administrative deadlines, housing rules, and official letters. Finding reliable, relevant information can quickly become overwhelming.
