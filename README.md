@@ -23,7 +23,7 @@ This project reflects how I approach AI product management: think strategically,
 
 ### Ask Buddy
 
-![Ask Buddy](screenshots/Ask%20Buddy.png)
+Ask Buddy.png
 
 ### Onboarding details
 
